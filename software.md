@@ -6,9 +6,7 @@
 
 В качестве среды разработки будем использовать IDE (Интегрированная среда разработки) Visual studio community версий 15-19. Для лучшей совместимости нужно выбрать ту версию, которая установлена в аудитории.
 
-* Visual Studio Communuty 2017-2019 - 
-	http://msdn.miet.ru или
-	https://www.microsoft.com/ru-ru/SoftMicrosoft/vs2019Community.aspx
+* Visual Studio Communuty 2017-2019 - https://visualstudio.microsoft.com/ru/vs/community/
 
 Клиент для публикования исходных кодов
 ---------------------------------------
